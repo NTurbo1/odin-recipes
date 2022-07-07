@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/2305398.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#page-content {
+    background-image: url("https://st.depositphotos.com/1000504/5010/i/600/depositphotos_50103125-stock-photo-wooden-cutting-board.jpg");
+    /*background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding: 30px;
+    border-radius: 60px;
+
+}
+
+#body-title {
+    text-align: center;
+    font-size: 40px;
+}
+
+#first-recipe {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 100px;
+}
+
+#second-recipe {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 100px;
+    left: -70px;
+}
+
+#third-recipe {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: -183px;
+    top: 200px;
+    font-size: 20px;
+}
